@@ -82,6 +82,12 @@ Key Status does not log, track, or transmit keystrokes. It only reads the ON/OFF
 
 ---
 
+## 🎬 Demo
+
+![Demo](assets/demo.gif)
+
+---
+
 ## 🖼️ Screenshots
 
 **Indicators — Lock Keys**
