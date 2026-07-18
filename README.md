@@ -85,24 +85,31 @@ Key Status does not log, track, or transmit keystrokes. It only reads the ON/OFF
 ## 🖼️ Screenshots
 
 **Indicators — Lock Keys**
+
 ![Indicators - Lock Keys](assets/indicators-lockkeys.png)
 
 **Indicators — System & Modifier Keys**
+
 ![Indicators - System](assets/indicators-system.png)
 
 **Settings**
+
 ![Settings](assets/settings.png)
 
 **About**
+
 ![About](assets/about.png)
 
 **Tray Context Menu**
+
 ![Tray Menu](assets/tray-menu.png)
 
 **Create Group**
+
 ![Create Group](assets/create-group.png)
 
 **Edit Group**
+
 ![Edit Group](assets/edit-group.png)
 
 ---
