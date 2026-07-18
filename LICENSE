@@ -1,0 +1,21 @@
+END USER LICENSE AGREEMENT (EULA)
+KEY STATUS BY LUMORA
+
+IMPORTANT - READ CAREFULLY: By installing, copying, or otherwise using Key Status ("Software"), you agree to be bound by the terms of this EULA. If you do not agree, do not install or use the Software.
+
+1. LICENSE GRANT & HARDWARE BINDING
+The Software is licensed, not sold. Lumora grants you a personal, non-transferable license to use the Software on a single specific registered device. Your license is strictly tied to the unique hardware signature of your device (specifically, the Motherboard and the CPU). Modifying, upgrading, or replacing EITHER the Motherboard OR the CPU will permanently alter this signature, rendering your current activation invalid and permanently voiding the license. In such cases, a new license must be purchased. You may not distribute, resell, or share your license key. Reverse engineering, decompiling, or attempting to bypass the activation mechanism is strictly prohibited.
+
+2. PRIVACY & DATA COLLECTION
+Key Status is designed to display keyboard hardware states (e.g., Caps Lock). IT DOES NOT LOG, RECORD, OR TRANSMIT YOUR KEYSTROKES OR PERSONAL DATA. The Software strictly generates a unique Hardware ID of your machine solely for the purpose of license validation and preventing piracy.
+
+3. THIRD-PARTY CLOUD INFRASTRUCTURE & ACTIVATION
+The Software's license activation relies on third-party cloud infrastructure. Lumora reserves the right to suspend or discontinue activation services at any time due to server maintenance, infrastructure discontinuation, or circumstances beyond our control. Lumora holds no legal liability or financial obligation to refund or compensate users if the cloud authentication servers become permanently unavailable or suspended.
+
+4. LICENSE KEY LOSS
+The license key provided to you upon acquisition is your sole responsibility. Lumora is not responsible for any lost, misplaced, deleted, or stolen license keys. It is highly recommended that you back up your license key in a secure location. Lumora reserves the right to refuse the reissuance of lost keys.
+
+5. DISCLAIMER OF WARRANTIES & LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED. IN NO EVENT SHALL LUMORA BE HELD LIABLE FOR ANY DAMAGES, DATA LOSS, OR SYSTEM FAILURES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+By clicking "I accept the agreement", you acknowledge that you have read and agreed to these terms.
